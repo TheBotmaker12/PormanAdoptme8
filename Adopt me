@@ -64,3 +64,5 @@ local Button = Tab:CreateButton({
 })
 
 local Tab = Window:CreateTab("Free Gamepasses")
+
+local Tab = Window:CreateTab("Teleport")
