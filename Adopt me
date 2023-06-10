@@ -69,3 +69,4 @@ local Tab = Window:CreateTab("Free Gamepasses")
 local Tab = Window:CreateTab("Teleport")
 
 local Tab = Window:CreateTab("Pro")
+ 
